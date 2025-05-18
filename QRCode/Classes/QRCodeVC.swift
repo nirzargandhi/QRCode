@@ -7,7 +7,7 @@
 
 import UIKit
 
-class QRCodeVC: UIViewController {
+class QRCodeVC: BaseVC {
     
     // MARK: - IBOutlets
     @IBOutlet weak var qrCodeImage: UIImageView!
